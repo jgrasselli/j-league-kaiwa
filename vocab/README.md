@@ -1,1 +1,1 @@
-Test
+Files that double as vocabulary builders and katakana/hiragana reading and writing practice. Most don't have dedicated kanji spots, but they can be used for that, too. Many sheets will require you to use a dictionary to look up the words, and <a href="https://jisho.org/">Jisho.org</a> is a great option, though hardly the only one.
